@@ -1,0 +1,59 @@
+.navItem {
+    color: white;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected.customclass {
+    background-color: transparent; /*Overriden property*/
+}
+.customclass {
+    background-color: transparent;
+}
+
+
+.login-form {
+    max-width: 400px;
+}
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    width: 100%;
+}
+
+
+#scaffold-src-components-Login-demo-basic .login-warp{
+    max-width: 360px;
+    margin: auto;
+}
+#scaffold-src-components-Login-demo-basic .icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url('https://gw.alipayobjects.com/zos/rmsportal/itDzjUnkelhQNsycranf.svg');
+    margin-left: 16px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+    float: right;
+}
+#components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+    float: left;
+}
+#components-form-demo-normal-login .login-form-button {
+    width: 100%;
+}
+
+.login-form-layout {
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: #12ff59
+}
+.e:hover{
+    background-color:#FF0000;
+}
